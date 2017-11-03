@@ -1,0 +1,13 @@
+.DS_Store
+*.box
+*.gz
+*.iso
+*.tar
+*.swp
+ISOs/*
+crash.log
+output*
+.vagrant/
+box/
+packer_cache/
+tmp/
